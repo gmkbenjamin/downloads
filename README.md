@@ -19,7 +19,9 @@ macOS 14 or later · [Privacy](https://gmkbenjamin.github.io/privacy/#latch) ·
 
 AI quota and reset reminders. Collects your usage on the Mac for ResetCalendar on iPhone, iPad and Apple Watch.
 
-*Coming soon.* · [Privacy](https://gmkbenjamin.github.io/privacy/#resetcalendar)
+**[Download ResetCalendar 0.1.0 for Mac](https://github.com/gmkbenjamin/downloads/releases/download/resetcalendar-v0.1.0/ResetCalendar-0.1.0-macOS.zip)** ·
+macOS 14 or later · [Privacy](https://gmkbenjamin.github.io/privacy/#resetcalendar) ·
+[All ResetCalendar releases](https://github.com/gmkbenjamin/downloads/releases?q=resetcalendar&expanded=true)
 
 ---
 
