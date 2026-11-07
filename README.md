@@ -1,12 +1,26 @@
-# Latch for Mac — downloads
+# SmartStay Access — downloads
 
-Signed, notarized builds of **Latch for Mac**, the companion to the Latch app for iPhone and iPad. This
-repository holds release downloads only.
+Signed and notarized Mac apps from SmartStay Access. Each app has its own section with the current
+version; every release is listed under [Releases](https://github.com/gmkbenjamin/downloads/releases).
+Unzip the download and move the app to Applications.
 
-**[Download the latest release](https://github.com/gmkbenjamin/latch-releases/releases/latest)** — unzip it and
-move Latch to Applications. Requires macOS 14 or later.
-
-- Privacy policy: https://gmkbenjamin.github.io/privacy/#latch
+- Privacy policy: https://gmkbenjamin.github.io/privacy/
 - Contact: dev@smartstayaccess.com
 
-Latch is published by SmartStay Access.
+## Latch
+
+Unlock and control your Mac from your iPhone or iPad. Companion to Latch for iPhone.
+
+**[Download Latch 1.2 for Mac](https://github.com/gmkbenjamin/downloads/releases/download/latch-v1.2/Latch-1.2-macOS.zip)** ·
+macOS 14 or later · [Privacy](https://gmkbenjamin.github.io/privacy/#latch) ·
+[All Latch releases](https://github.com/gmkbenjamin/downloads/releases?q=latch&expanded=true)
+
+## ResetCalendar
+
+AI quota and reset reminders. Collects your usage on the Mac for ResetCalendar on iPhone, iPad and Apple Watch.
+
+*Coming soon.* · [Privacy](https://gmkbenjamin.github.io/privacy/#resetcalendar)
+
+---
+
+Releases are tagged `<app>-v<version>`. All apps are published by SmartStay Access.
