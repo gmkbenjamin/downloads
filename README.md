@@ -19,9 +19,13 @@ macOS 14 or later · [Privacy](https://gmkbenjamin.github.io/privacy/#latch) ·
 
 AI quota and reset reminders. Collects your usage on the Mac for ResetCalendar on iPhone, iPad and Apple Watch.
 
-**[Download ResetCalendar 0.1.0 for Mac](https://github.com/gmkbenjamin/downloads/releases/download/resetcalendar-v0.1.0/ResetCalendar-0.1.0-macOS.zip)** ·
+**[Download ResetCalendar 0.1.0 (build 40) for Mac](https://github.com/gmkbenjamin/downloads/releases/download/resetcalendar-v0.1.0-build40/ResetCalendar-0.1.0-40-macOS.zip)** ·
 macOS 14 or later · [Privacy](https://gmkbenjamin.github.io/privacy/#resetcalendar) ·
 [All ResetCalendar releases](https://github.com/gmkbenjamin/downloads/releases?q=resetcalendar&expanded=true)
+
+Setup: unzip and move ResetCalendar to Applications, then open it. It reads your usage from CodexBar if you have
+it, or connect your accounts in Settings (⌘,) → Source. To pair an iPhone, choose Settings → Devices & Sync →
+Pair a Device… and scan the code in the iPhone app (Settings → Connection & Sync).
 
 ---
 
