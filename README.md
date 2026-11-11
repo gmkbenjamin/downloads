@@ -16,6 +16,13 @@ Unlock and control your Mac from your iPhone or iPad. Companion to Latch for iPh
 current version 1.3 · macOS 14 or later · [Privacy](https://gmkbenjamin.github.io/privacy/#latch) ·
 [All Latch releases](https://github.com/gmkbenjamin/downloads/releases?q=latch&expanded=true)
 
+**Setup**
+
+1. Unzip the download, move Latch to Applications and open it. It runs in the menu bar: click the lock icon.
+2. Save your Mac login password, and allow Accessibility access when asked so Latch can unlock the lock screen.
+3. Open Latch on your iPhone or iPad, on the same Wi-Fi or nearby, and scan the pairing code shown on the Mac.
+4. Lock your Mac (Control-Command-Q), then tap **Unlock** on your phone.
+
 ## ResetCalendar
 
 AI quota and reset reminders. Collects your usage on the Mac for ResetCalendar on iPhone, iPad and Apple Watch.
@@ -24,6 +31,10 @@ AI quota and reset reminders. Collects your usage on the Mac for ResetCalendar o
 current version 0.1.1 (build 42) · macOS 14 or later · [Privacy](https://gmkbenjamin.github.io/privacy/#resetcalendar) ·
 [All ResetCalendar releases](https://github.com/gmkbenjamin/downloads/releases?q=resetcalendar&expanded=true)
 
-Setup: unzip and move ResetCalendar to Applications, then open it. It reads your usage from CodexBar if you have
-it, or connect your accounts in Settings (⌘,) → Source. To pair an iPhone, choose Settings → Devices & Sync →
-Pair a Device… and scan the code in the iPhone app (Settings → Connection & Sync).
+**Setup**
+
+1. Unzip the download, move ResetCalendar to Applications and open it. It runs in the menu bar.
+2. It reads your usage from CodexBar if you have it; otherwise connect your accounts in Settings (⌘,) → Source.
+3. For reset reminders in your calendar, choose one in Settings → Calendar.
+4. To add your iPhone, iPad or Apple Watch, choose Settings → Devices & Sync → Pair a Device… on the Mac, then
+   scan the code in the iPhone app (Settings → Connection & Sync).
