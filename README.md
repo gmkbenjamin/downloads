@@ -11,7 +11,7 @@ Unzip the download and move the app to Applications.
 
 Unlock and control your Mac from your iPhone or iPad. Companion to Latch for iPhone.
 
-**[Download Latch 1.2 for Mac](https://github.com/gmkbenjamin/downloads/releases/download/latch-v1.2/Latch-1.2-macOS.zip)** ·
+**[Download Latch 1.3 for Mac](https://github.com/gmkbenjamin/downloads/releases/download/latch-v1.3/Latch-1.3-macOS.zip)** ·
 macOS 14 or later · [Privacy](https://gmkbenjamin.github.io/privacy/#latch) ·
 [All Latch releases](https://github.com/gmkbenjamin/downloads/releases?q=latch&expanded=true)
 
