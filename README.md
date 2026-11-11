@@ -27,9 +27,3 @@ current version 0.1.1 (build 42) · macOS 14 or later · [Privacy](https://gmkbe
 Setup: unzip and move ResetCalendar to Applications, then open it. It reads your usage from CodexBar if you have
 it, or connect your accounts in Settings (⌘,) → Source. To pair an iPhone, choose Settings → Devices & Sync →
 Pair a Device… and scan the code in the iPhone app (Settings → Connection & Sync).
-
----
-
-Releases are tagged `<app>-v<version>`. Each app's `<app>-latest` release holds a copy of its newest version
-under a fixed name, `<App>-macOS.zip`, which is what the Download links above point to. All apps are published
-by SmartStay Access.
