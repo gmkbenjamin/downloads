@@ -1,7 +1,8 @@
 # SmartStay Access — downloads
 
-Signed and notarized Mac apps from SmartStay Access. Each app has its own section with the current
-version; every release is listed under [Releases](https://github.com/gmkbenjamin/downloads/releases).
+Signed and notarized Mac apps from SmartStay Access. Each app's Download link always gets its newest
+version and never changes, so it's safe to bookmark or share; every release is listed under
+[Releases](https://github.com/gmkbenjamin/downloads/releases).
 Unzip the download and move the app to Applications.
 
 - Privacy policy: https://gmkbenjamin.github.io/privacy/
@@ -11,16 +12,16 @@ Unzip the download and move the app to Applications.
 
 Unlock and control your Mac from your iPhone or iPad. Companion to Latch for iPhone.
 
-**[Download Latch 1.3 for Mac](https://github.com/gmkbenjamin/downloads/releases/download/latch-v1.3/Latch-1.3-macOS.zip)** ·
-macOS 14 or later · [Privacy](https://gmkbenjamin.github.io/privacy/#latch) ·
+**[Download Latch for Mac](https://github.com/gmkbenjamin/downloads/releases/download/latch-latest/Latch-macOS.zip)** ·
+current version 1.3 · macOS 14 or later · [Privacy](https://gmkbenjamin.github.io/privacy/#latch) ·
 [All Latch releases](https://github.com/gmkbenjamin/downloads/releases?q=latch&expanded=true)
 
 ## ResetCalendar
 
 AI quota and reset reminders. Collects your usage on the Mac for ResetCalendar on iPhone, iPad and Apple Watch.
 
-**[Download ResetCalendar 0.1.1 (build 42) for Mac](https://github.com/gmkbenjamin/downloads/releases/download/resetcalendar-v0.1.1-build42/ResetCalendar-0.1.1-42-macOS.zip)** ·
-macOS 14 or later · [Privacy](https://gmkbenjamin.github.io/privacy/#resetcalendar) ·
+**[Download ResetCalendar for Mac](https://github.com/gmkbenjamin/downloads/releases/download/resetcalendar-latest/ResetCalendar-macOS.zip)** ·
+current version 0.1.1 (build 42) · macOS 14 or later · [Privacy](https://gmkbenjamin.github.io/privacy/#resetcalendar) ·
 [All ResetCalendar releases](https://github.com/gmkbenjamin/downloads/releases?q=resetcalendar&expanded=true)
 
 Setup: unzip and move ResetCalendar to Applications, then open it. It reads your usage from CodexBar if you have
@@ -29,4 +30,6 @@ Pair a Device… and scan the code in the iPhone app (Settings → Connection & 
 
 ---
 
-Releases are tagged `<app>-v<version>`. All apps are published by SmartStay Access.
+Releases are tagged `<app>-v<version>`. Each app's `<app>-latest` release holds a copy of its newest version
+under a fixed name, `<App>-macOS.zip`, which is what the Download links above point to. All apps are published
+by SmartStay Access.
